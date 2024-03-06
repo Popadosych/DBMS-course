@@ -21,7 +21,7 @@
 Успокоили фанатов алхимика
 
 Сделаем read запрос немного по-труднее. Посмотрим на топ рейтинга с ограничением на количество просмотров
-![find_top](./pics/ind_top.jpg)
+![find_top](./pics/find_top.jpg)
 Теперь посмотрим на количество исследованных документов
 ![find_explain](./pics/find_explain.jpg)
 ![amount_of_docs](./pics/amount_of_docs.jpg)
