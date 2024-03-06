@@ -21,13 +21,13 @@
 Успокоили фанатов алхимика
 
 Сделаем read запрос немного по-труднее. Посмотрим на топ рейтинга с ограничением на количество просмотров
-![find_top](./pics.find_top.jpg)
+![find_top](./pics./ind_top.jpg)
 Теперь посмотрим на количество исследованных документов
-![find_explain](./pics/find_explain)
+![find_explain](./pics/find_explain.jpg)
 ![amount_of_docs](./pics/amount_of_docs.jpg)
 Кажется, стоит сделать индекс именно по количеству просмотров, ибо релевантно смотреть на более менее популярные тайтлы
 ![index](./pics/index.jpg)
 Посмотрим теперь на количество исследованных документов
-![amounD_lol](./amound_of_docs_after_index.jpg)
+![amounD_lol](./pics/amound_of_docs_after_index.jpg)
 Ну выглядит определенно лучше
 
