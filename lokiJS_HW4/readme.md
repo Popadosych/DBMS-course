@@ -77,6 +77,21 @@ LokiJS ориентирована на простые операции с дан
 
 ## Сообщества
 
+[Тут](https://github.com/techfort/LokiJS/graphs/contributors) можно посмотреть, кто больше всего работал над проектом. А так главные контрибьютеры - это Джо Миничино и Дейв Эстердей. Про Дейва ничего особо не нашел, а Джо писал про себя следующее на своей странице: 
+
+```
+Cloud / Data Architect
+ML/AI/Deep Learning Enthusiast
+Unwavering Heavy Metal faithful, Guitarist / Singer / Wannabe drummmer
+Ancient and Medieval History enthusiast
+RPGs, Fantasy, and any other subject used in Stranger Things, that was just us in the 1908s.
+Wanna-be fantasy painter
+```
+
+Ну и отсюда становится понятно, откуда такое название СУБД, потому что он увлекается скандинавской мифологией и металом (наверняка какой-нибудь viking metal). А так судя по описанию уважаемый человек и высококвалифицированный специалист
+
+
+
 ## Собственные данные
 
 ## Документация, Обучение, Демобаза
