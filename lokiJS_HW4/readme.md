@@ -94,6 +94,34 @@ Wanna-be fantasy painter
 
 ## Собственные данные
 
+```
+var db = new loki('demo.db');
+
+var products = db.addCollection('products');
+
+for (var i = 1; i <= 10; i++) {
+    var productName = "Product " + i;
+    var price = getRandomPrice(10, 100);
+    var quantity = getRandomQuantity(1, 50);
+
+    products.insert({
+        id: i,
+        name: productName,
+        price: price,
+        quantity: quantity
+    });
+}
+
+function getRandomPrice(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+// Функция для генерации случайного количества
+function getRandomQuantity(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+```
+
 ## Документация, Обучение, Демобаза
 
 Думаю, можно взять демобазу то, что получилось в прошлом пункте и поиграться вот [тут](https://rawgit.com/techfort/LokiJS/master/examples/sandbox/LokiSandbox.html).С помощью [вики](https://github.com/techfort/LokiJS/wiki) и [документации](https://techfort.github.io/LokiJS/) можно научиться пользованию данной СУБД при помощи демобазы. Также существуют [примеры](https://github.com/techfort/LokiJS/tree/master/examples) от самого разработчика 
